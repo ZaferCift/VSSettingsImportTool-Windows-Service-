@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\wndws3\\Desktop\\Teslim edilecek\\VSSettingsImportTool \u0026 PowerShellScript\\VSSettingsImportTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7EF04-DDA4-4C1D-8A33-B6E4C8C337C0}|VSSettingsImportTool.csproj|d:\\users\\wndws3\\desktop\\teslim edilecek\\vssettingsimporttool \u0026 powershellscript\\vssettingsimporttool\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B7EF04-DDA4-4C1D-8A33-B6E4C8C337C0}|VSSettingsImportTool.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7EF04-DDA4-4C1D-8A33-B6E4C8C337C0}|VSSettingsImportTool.csproj|d:\\users\\wndws3\\desktop\\teslim edilecek\\vssettingsimporttool \u0026 powershellscript\\vssettingsimporttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B7EF04-DDA4-4C1D-8A33-B6E4C8C337C0}|VSSettingsImportTool.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\wndws3\\Desktop\\Teslim edilecek\\VSSettingsImportTool \u0026 PowerShellScript\\VSSettingsImportTool\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\wndws3\\Desktop\\Teslim edilecek\\VSSettingsImportTool \u0026 PowerShellScript\\VSSettingsImportTool\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:22:49.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Users\\wndws3\\Desktop\\Teslim edilecek\\VSSettingsImportTool \u0026 PowerShellScript\\VSSettingsImportTool\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "D:\\Users\\wndws3\\Desktop\\Teslim edilecek\\VSSettingsImportTool \u0026 PowerShellScript\\VSSettingsImportTool\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwBMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:54:22.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
